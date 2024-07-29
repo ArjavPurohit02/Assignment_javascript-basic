@@ -1,1 +1,1 @@
-# Assignment_javascript-basic
+JavaScript is a high-level, dynamic, and interpreted programming language primarily used for adding interactivity to web pages. It is one of the core technologies of the World Wide Web, alongside HTML and CSS, and is supported by all modern web browsers without the need for plug-ins.# Assignment_javascript-basic
